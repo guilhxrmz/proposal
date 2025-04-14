@@ -61,4 +61,4 @@ proposal API was planed to be used with candidate API(https://github.com/guilhxr
 
 Clone both and run, create a candidate with a valid email and then create a proposal to him!
 
-use the [interview.postman_collection.json](interview.postman_collection.json) to test the API.
+use the [interview.postman_collection.json](interview.postman_collection.json) to test and create candidates and proposals the API.
