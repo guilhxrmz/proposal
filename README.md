@@ -55,3 +55,8 @@ We have achieved what many thought was still 2 to 3 years away, delivering proje
 
 ## UML Diagram:
 ![Editor _ Mermaid Chart-2025-04-13-220957.png](Editor%20_%20Mermaid%20Chart-2025-04-13-220957.png)
+
+## How to use:
+proposal API was planed to be used with candidate API(https://github.com/guilhxrmz/candidate).
+
+Clone both and run, create a candidate with a valid email and then create a proposal to him!
