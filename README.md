@@ -60,3 +60,5 @@ We have achieved what many thought was still 2 to 3 years away, delivering proje
 proposal API was planed to be used with candidate API(https://github.com/guilhxrmz/candidate).
 
 Clone both and run, create a candidate with a valid email and then create a proposal to him!
+
+use the [interview.postman_collection.json](interview.postman_collection.json) to test the API.
